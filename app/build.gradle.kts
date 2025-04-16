@@ -47,6 +47,7 @@ android {
     //fix the email issues.git status
     //second try
     //third try i think its going to work
+    //its worked but in a another git ACC
 }
 
 dependencies {
